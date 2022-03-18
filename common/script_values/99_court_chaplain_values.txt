@@ -192,7 +192,9 @@ court_chaplain_religious_relations_no_hof_monthly_increase = {
 
 # Base value
 court_chaplain_fabricate_claim_base = {
-	add = 3
+	#add = 3 
+	add = 5 # BookOfThoth - Increased speed (~ 1 year) due to no guarantee to completion
+
 }
 
 court_chaplain_fabricate_claim_monthly_increase_base = {

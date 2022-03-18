@@ -223,9 +223,9 @@ task_bestow_royal_favor_side_effects = {
 	}
 }
 
-
 task_fabricate_claim_success_effect = {
 	random_events = {
+		chance_to_happen = 25 # BookOfThoth - 25% chance of any event firing at all
 		100 = court_chaplain_task.0301 #Claim on County
 		20 = court_chaplain_task.0302 #Claim on Duchy
 	}
